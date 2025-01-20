@@ -10,8 +10,8 @@ I'm a Frontend Developer expanding my horizons into Full-Stack Development throu
 
 ### 💻 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
-- **UI Libraries/Frameworks:** [Add your specific expertise, e.g., React, Vue, Angular]
-- **Styling:** [Add your preferred styling solutions, e.g., Sass, Tailwind, Styled Components]
+- **UI Libraries/Frameworks:** [React, Angular]
+- **Styling:** [Tailwind, Styled Components]
 - **Version Control:** Git
 - **Learning:** Java, Backend Development
 
@@ -28,10 +28,6 @@ I'm a Frontend Developer expanding my horizons into Full-Stack Development throu
 - Contribute to open-source projects
 - Develop scalable web solutions
 
-### 📫 How to Reach Me
-- [LinkedIn: Your Profile]
-- [Email: your.email@example.com]
-- [Portfolio: your-portfolio-site.com]
 
 ### 🤝 Open to
 - Collaboration on web development projects
